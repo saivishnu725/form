@@ -22,7 +22,8 @@ The plan is to create three different repositories/folders (idk lets see.. i do 
 #
 
 <h2 id="html"><i>a. HTML (Employee Interests Survey</i> </h2>
-<h2>Todo</h2>
+<img src="1_html/example.png" alt="html form">
+<h2>Features - </h2>
 1. Title <br>
 2. Name <br>
 3. Department <br>
