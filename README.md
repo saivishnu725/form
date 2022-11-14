@@ -23,12 +23,12 @@ The plan is to create three different repositories/folders (idk lets see.. i do 
 
 <h2 id="html"><i>a. HTML (Employee Interests Survey</i> </h2>
 <h2>Todo</h2>
-1. Title
-2. Name
-3. Department
-4. Little about yourself
-5. Exercise at home?
-6. How do you like to read? book, article, audio book, university research
+1. Title <br>
+2. Name <br>
+3. Department <br>
+4. Little about yourself <br>
+5. Exercise at home?<br>
+6. How do you like to read? book, article, audio book, university research <br>
 7. Favorite Genre
 
 #
