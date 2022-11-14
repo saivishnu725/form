@@ -5,7 +5,7 @@ A form site to get ... well you know what a form site does -_-
 
 ## Prerequisites/ Dependencies
 
-Any modern browser (recommend [Firefox](https://www.mozilla.org/en-US/firefox/new/) or atleast [Brave](https://brave.com/en-in/) for you Chromium freaks.)
+Any modern browser (recommend [Firefox](https://www.mozilla.org/en-US/firefox/new/) or at least [Brave](https://brave.com/en-in/) for you Chromium freaks.)
 #
 
 
@@ -23,8 +23,8 @@ The plan is to create three different repositories/folders (idk lets see.. i do 
 
 <h2 id="html"><i>a. HTML (Employee Interests Survey</i> </h2>
 <h2>Todo</h2>
-1. Title <br>
-2. Name <br>
+1.* Title <br>
+2.* Name <br>
 3. Department <br>
 4. Little about yourself <br>
 5. Exercise at home?<br>
